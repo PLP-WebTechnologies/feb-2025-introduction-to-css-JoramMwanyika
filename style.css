@@ -1,0 +1,33 @@
+/* Styling the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* Styling the title using a class selector */
+.title {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+}
+
+/* Styling paragraph using an ID selector */
+#intro {
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+/* Styling the image */
+.styled-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border: 5px solid #ddd;
+    border-radius: 5px;
+    height: 520px;
+}
